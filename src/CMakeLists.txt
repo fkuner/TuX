@@ -1,0 +1,3 @@
+project(TuX)
+
+subdirs(tux)
